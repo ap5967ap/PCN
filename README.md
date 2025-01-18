@@ -12,6 +12,8 @@ Point cloud completion aims to predict the complete shape of an object given its
 
 The **ShapeNet** dataset was used for training and testing the model. Testing was done specifically on the "car" and "bus" categories for seen and unseen datasets respectively. 
 
+The Dataset can be found here : [Dataset](https://drive.google.com/file/d/1OvvRyx02-C_DkzYiJ5stpin0mnXydHQ7/view)
+
 ---
 
 ## Results
@@ -87,7 +89,7 @@ The value of `alpha` changes dynamically during training:
 ## Acknowledgments
 
 - **Paper**: [PCN: Point Completion Network](https://arxiv.org/abs/1808.00671)
-- **Dataset**: ShapeNet
+- **Dataset**: ShapeNet 
 
 ---
 
